@@ -1,0 +1,12 @@
+{
+  "ativo": "EURUSD",
+  "timeframe": "M5",
+  "periodo": "2026-08-10 10:45:00 \u2192 2026-09-25 23:55:00",
+  "n_candles": 9951,
+  "n_features": 55,
+  "auc": 0.5035164396728387,
+  "acuracia": 0.5010046885465506,
+  "ic": null,
+  "pnl_com_custo_1pip": -0.023622474092681544,
+  "conclusao": "Sem edge em M5 com 35 dias. Custo de 1 pip domina o sinal."
+}

@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "b3-ml"
+version = "0.1.0"
+description = "Exploracao e Machine Learning com dados historicos da B3"
+requires-python = ">=3.12"
+
+[tool.setuptools.packages.find]
+where = ["."]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

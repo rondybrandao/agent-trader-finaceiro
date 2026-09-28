@@ -1,0 +1,25 @@
+{
+  "horizonte": "5 dias",
+  "split_unico": {
+    "auc": 0.5469140402879439,
+    "ic": 0.0648518940468049,
+    "p_valor": 0.0008558124011229963
+  },
+  "backtest": {
+    "retorno_bruto": 0.04348384256317939,
+    "retorno_liquido": 0.015983842563179307,
+    "retorno_bh": -0.73067638202851,
+    "max_drawdown": -0.02033488910568848,
+    "sharpe_liquido": 2.1253236754683553,
+    "calmar": 3.7059695047966175,
+    "dias_batendo_bh": 44,
+    "dias_totais": 55
+  },
+  "config": {
+    "n_features": 60,
+    "max_depth": 3,
+    "learning_rate": 0.02,
+    "top_bottom_pct": 0.05,
+    "custo_por_trade": 0.0005
+  }
+}
